@@ -23,7 +23,7 @@ timezone: Asia/Tokyo
 
 title: Kaiun                          # the main title
 
-tagline: 以超慢的速度建站中   # it will display as the sub-title
+tagline: super late   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -82,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/favicons/android-chrome-512x512.png
+avatar: #assets/img/favicons/android-chrome-512x512.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
