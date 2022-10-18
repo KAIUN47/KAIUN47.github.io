@@ -23,7 +23,7 @@ timezone: Asia/Tokyo
 
 title: Kaiun                          # the main title
 
-tagline:    # it will display as the sub-title
+tagline: 顶不住了   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
