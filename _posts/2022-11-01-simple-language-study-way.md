@@ -259,7 +259,7 @@ img_path: /assets/img/
 
 #### 定制单词的规则
 
-![定制单词本的制作方法](202211\make-custom-wordbook.jpg)
+![定制单词本的制作方法](202211\make-custom-wordbook.jpg){: .shadow  }
 _定制单词本的制作方法_
 
 定制单词本的原则是，只加入真的对自己有必要的单词，因此
