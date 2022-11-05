@@ -12,7 +12,13 @@ img_path: /assets/img/
 
 # 简单的外语学习法
 
-本文章根据《[純ジャパの僕が10カ国語を話せた 世界一シンプルな外国語勉強法](https://www.amazon.co.jp/dp/4478104883)》这本书进行归纳总结。
+本文章根据**秋山燿平**的《[純ジャパの僕が10カ国語を話せた 世界一シンプルな外国語勉強法](https://www.amazon.co.jp/dp/4478104883)》这本书进行归纳总结。有能力的请支持作者一下，电子书版可在日本亚马逊进行购买下载。
+
+关联链接
+
+- [作者B站主页](https://space.bilibili.com/229740315)
+- [本书关联视频 ](https://www.bilibili.com/video/BV1fW411s7xk/)
+- [kindle购买链接](https://www.amazon.co.jp/dp/B079RWVBNG)
 
 ## 只学习自己会用到的单词和语法
 
