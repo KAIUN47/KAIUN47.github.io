@@ -5,6 +5,7 @@ date: 2022-11-01 23:58 +0900
 categories: ["语言学习"]
 tags: ["语言学习"]
 pin: false
+img_path: /assets/img/
 ---
 
 
@@ -258,7 +259,7 @@ pin: false
 
 #### 定制单词的规则
 
-![定制单词本的制作方法](\assets\img\202211\定制单词本的制作方法.jpg)
+![定制单词本的制作方法](202211\make-custom-wordbook.jpg)
 _定制单词本的制作方法_
 
 定制单词本的原则是，只加入真的对自己有必要的单词，因此
