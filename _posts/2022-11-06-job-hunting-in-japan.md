@@ -4,7 +4,6 @@ title: 日本求职历程记录
 date: 2022-11-06 01:12 +0900
 categories: ["日本生活"]
 tags: ["求职"]
-img_path: /assets/img/
 ---
 
 ## 前言
@@ -38,7 +37,7 @@ img_path: /assets/img/
 - 深夜寂寞了吗，可爱的日本小姐姐跑来问「请问这里有卖震动棒吗？」看了遍继续追问「有没有更大的？」
 - 下班回家的时候，时不时会遇到几个在路边喝酒的人，那时候还不太懂没搭过话，最近渐渐爱上喝酒后，自己也和别的日本人一起在路边喝过酒，能理解他们了。按照日本人的脾气也闹不出什么大事，下次有空去便利店买罐酒加入他们，这是夜晚！
 
-![night!](202211/its-night-boy.jpg){: .right  }{: width="360" }{:.shadow}
+![its-night-boy.jpg](https://s2.loli.net/2022/11/07/cK9vGV6sJOM4ja1.jpg){: .right  }{: width="360" }{:.shadow}
     
 > ここは夜だぜ？
 >
@@ -66,7 +65,7 @@ img_path: /assets/img/
 
 个人情况需要详细说明下，参考下面的时间轴。
 
-![time line](202211/mylife.png){:.shadow}
+![mylife.png](https://s2.loli.net/2022/11/07/Fajbno916lCWJwN.png){:.shadow}
 
 个人目前情况是日语能力考N1，东京工业大学修士在读，2022年四月入学，两年后2024年四月毕业。
 
