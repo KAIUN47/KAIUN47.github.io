@@ -268,14 +268,17 @@ _日本面试和国外面试的不同之处_
 ![](https://vip2.loli.io/2022/11/23/OJbspAMe5u4X8zc.png){: width="360" }
 _[留学生のための就職筆記試験の教科書](https://www.amazon.co.jp/dp/482072844X)_
 
-
-
 ### 再留资格的变更
 
 ![](https://vip2.loli.io/2022/11/23/VK1rBNIksCn7ifF.png)
 _这玩意儿还早，有空调查_
 
+### 找工作成功的关键词
 
+- 日语能力
+- 尽早准备就职活动
+- 准备好就职的考试，SPI等
+- 活用就职支援support
 
 
 
