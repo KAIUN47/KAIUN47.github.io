@@ -76,13 +76,13 @@ tags: ["设计学习","读书笔记","漫画"]
 _第1题 文章_
 
 ![](https://vip2.loli.io/2023/01/16/l8ID9vMJZHi5dSG.png){: width="480" }
-_第2题 文章 _
+_第2题 文章_
 
 ![](https://vip2.loli.io/2023/01/16/yF8R6Tbao1MNxdL.png){: width="480" }
 _第3题 文章_
 
 ![](https://vip2.loli.io/2023/01/16/kfthADEjJi8vHFl.png){: width="480" }
-_第4题 布局 _
+_第4题 布局_
 
 ![](https://vip2.loli.io/2023/01/16/jtMEY5lPwsxfrGI.png){: width="480" }
 _第5题 布局_
