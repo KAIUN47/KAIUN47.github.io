@@ -2,8 +2,8 @@
 layout: post
 title: 简单的外语学习法
 date: 2022-11-01 23:58 +0900
-categories: ["语言学习"]
-tags: ["语言学习"]
+categories: ["学习","语言"]
+tags: ["语言学习","读书笔记"]
 ---
 
 
