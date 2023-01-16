@@ -1,11 +1,22 @@
 #  The contact options.
 
+#-
+#  type: github
+#  icon: 'fab fa-github'
+#-
+#  type: twitter
+#  icon: 'fab fa-twitter'
+
 -
-  type: github
-  icon: 'fab fa-github'
+  type: discord
+  icon: 'fa-brands fa-discord'
+  url:  'https://discordapp.com/users/277346290046730240'
+
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+ type: steam
+ icon: 'fa-brands fa-steam'
+ url:  'https://steamcommunity.com/id/kaiunkun/'
+
 -
   type: email
   icon: 'fas fa-envelope'
@@ -14,6 +25,8 @@
   type: rss
   icon: 'fas fa-rss'
   noblank: true
+   
+
 
 # Uncomment and complete the url below to enable more contact options
 # -
