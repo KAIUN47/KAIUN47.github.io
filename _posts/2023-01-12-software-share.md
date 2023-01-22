@@ -24,7 +24,7 @@ Windows下每次安装软件都要一个个去官网找，下载完成之后需�
 
 ## [everything](https://www.voidtools.com/)
 
-快速搜索，电脑里面的什么文件，都能很快的找到。配合Utools的查找功能使用。
+快速搜索，电脑里面的什么文件，都能很快的找到。配合utools的查找功能使用。
 
 ## [PotPlayer](https://potplayer.daum.net/)
 
@@ -82,7 +82,7 @@ Windows下每次安装软件都要一个个去官网找，下载完成之后需�
 
 ## [Zotero](https://www.zotero.org/)
 
-一款免费开源的文献管理软件，可以帮您收集、组织、注释、引用和分享研究。学术研究必备软件，额外开文章进行介绍了。
+一款免费开源的文献管理软件，可以帮您收集、组织、注释、引用和分享研究。学术研究必备软件，具体可以参考[这篇文章](https://kaiun47.github.io/posts/zotero/)。
 
 ## [Unity hub](https://unity.com/download)
 
@@ -94,7 +94,7 @@ VRC改模做世界用，同时可以开发一些游戏。
 
 ## [PicGO](https://github.com/Molunerfinn/PicGo)
 
-一个用于快速上传图片并获取图片 URL 链接的工具，写博客配图的时候用的小工具，提高效率。
+一个用于快速上传图片并获取图片 URL 链接的工具，写博客配图的时候用的小工具，提高效率。目前使用的图床是[sm.ms](https://sm.ms/)，免费额度5G，够用。
 
 ## [AutoHotKey](https://www.autohotkey.com/)
 
