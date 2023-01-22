@@ -54,7 +54,7 @@ Windows下每次安装软件都要一个个去官网找，下载完成之后需�
 
 ## [PikPak](https://mypikpak.com/)
 
-全平台的看番看片神器，除了下载还能在线播放。几乎所有的磁力链接都能一瞬间离线下载完成，从此抛弃百度网盘SVIP，迅雷会员。
+全平台的看番看片神器，除了下载还能在线播放。几乎所有的磁力链接都能一瞬间离线下载完成，从此抛弃百度网盘和迅雷。
 
 ## [Notion](https://www.notion.so/)
 
@@ -102,27 +102,28 @@ windows 平台下的热键脚本语言程序。可以实现诸如窗口置顶、
 
 ## 其他一些无需介绍的软件
 
-| 名称                                                    | 简介                     |
-| ------------------------------------------------------- | ------------------------ |
-| [QQ](https://im.qq.com/)                                | 社交                     |
-| [微信](https://weixin.qq.com/)                          | 社交                     |
-| [Line](https://line.me/ja/)                             | 社交                     |
-| [Chrome](https://www.google.com/intl/ja/chrome/)        | 浏览器                   |
-| [Zoom](https://zoom.us/support/download)                | 学校网课必备             |
-| [讯飞语记](https://iflynote.com/h/download.html)        | 语音转文字，提高码字效率 |
-| [Dropbox](https://www.dropbox.com/home)                 | 实验室统一用网盘         |
-| [TeamViewer](https://www.teamviewer.com/ja/download)    | 远程协助                 |
-| [百度网盘](https://pan.baidu.com/download)              | 网盘                     |
-| [Steam](https://store.steampowered.com/about/)          | 游戏平台                 |
-| [向日葵远程控制](https://sunlogin.oray.com/download)    | 远程协助                 |
-| [Spotify](https://www.spotify.com/jp/download/windows/) | 国外的音乐软件           |
-| [Slack](https://slack.com/intl/ja-jp/downloads/)        | 实验室联络用             |
-| [Matlab](https://jp.mathworks.com/products/matlab.html) | 实验用                   |
-| [Office](https://www.office.com/)                       | 码字                     |
-| [Adobe Acrobat DC](https://get.adobe.com/jp/reader/)    | PDF编辑                  |
-| [Discord](https://discord.com/)                         | 游戏开黑                 |
-| [Telegram](https://telegram.org/apps)                   | 奇怪的群组看奇怪的东西   |
-| [知悉思维导图](https://www.zhixi.com/download)          | 思维导图                 |
+| 名称                                                         | 简介                         |
+| ------------------------------------------------------------ | ---------------------------- |
+| [QQ](https://im.qq.com/)                                     | 社交                         |
+| [微信](https://weixin.qq.com/)                               | 社交                         |
+| [Line](https://line.me/ja/)                                  | 社交                         |
+| [Chrome](https://www.google.com/intl/ja/chrome/)             | 浏览器                       |
+| [Zoom](https://zoom.us/support/download)                     | 学校网课必备                 |
+| [讯飞语记](https://iflynote.com/h/download.html)             | 语音转文字，提高中文码字效率 |
+| [Dropbox](https://www.dropbox.com/home)                      | 实验室统一用网盘             |
+| [TeamViewer](https://www.teamviewer.com/ja/download)         | 远程协助                     |
+| [百度网盘](https://pan.baidu.com/download)                   | 网盘                         |
+| [Steam](https://store.steampowered.com/about/)               | 游戏平台                     |
+| [向日葵远程控制](https://sunlogin.oray.com/download)         | 远程协助                     |
+| [Spotify](https://www.spotify.com/jp/download/windows/)      | 音乐                         |
+| [Slack](https://slack.com/intl/ja-jp/downloads/)             | 实验室联络用                 |
+| [Matlab](https://jp.mathworks.com/products/matlab.html)      | 实验用                       |
+| [Office](https://www.office.com/)                            | 码字                         |
+| [Adobe Acrobat DC](https://get.adobe.com/jp/reader/)         | PDF编辑                      |
+| [Discord](https://discord.com/)                              | 游戏开黑                     |
+| [Telegram](https://telegram.org/apps)                        | 奇怪的群组看奇怪的东西       |
+| [知悉思维导图](https://www.zhixi.com/download)               | 思维导图                     |
+| [VMware Workstation](https://www.vmware.com/products/workstation-pro.html) | 虚拟机                       |
 
 
 
