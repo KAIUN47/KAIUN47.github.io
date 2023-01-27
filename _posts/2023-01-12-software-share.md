@@ -2,7 +2,7 @@
 layout: post
 title: 自用软件记录-Windows篇
 date: 2023-01-12 02:00 +0900
-categories: ["软件分享"]
+categories: ["软件"]
 tags: ["windows","software"] 
 ---
 
