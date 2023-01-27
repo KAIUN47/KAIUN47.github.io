@@ -135,5 +135,43 @@ $ brew install iterm2
 
 #### oh-my-zsh
 
+---
+
+## 常用软件备忘单
+
+关于安装方式，homebrew安装的话，直接输入`brew install <package>`，即可安装完成。如果都是❌的话，去官网下载。
+
+| 名称                                                         | 简介                   | homebrew安装       | App Store支持 |
+| ------------------------------------------------------------ | ---------------------- | ------------------ | ------------- |
+| [QQ](https://im.qq.com/)                                     | 社交                   | qq                 | ✅             |
+| [微信](https://weixin.qq.com/)                               | 社交                   | wechat             | ✅             |
+| [Line](https://line.me/ja/)                                  | 社交                   | ❌                  | ✅             |
+| [Chrome](https://www.google.com/intl/ja/chrome/)             | 浏览器                 | google-chrome      | ❌             |
+| [Zoom](https://zoom.us/support/download)                     | 学校网课必备           | zoom               | ❌             |
+| [Dropbox](https://www.dropbox.com/home)                      | 实验室统一用网盘       | dropbox            | ❌             |
+| [Steam](https://store.steampowered.com/about/)               | 游戏平台               | steam              | ❌             |
+| [向日葵远程控制](https://sunlogin.oray.com/download)         | 远程协助               | sunloginclient     | ❌             |
+| [Spotify](https://www.spotify.com/jp/download/windows/)      | 音乐                   | spotify            | ❌             |
+| [Slack](https://slack.com/intl/ja-jp/downloads/)             | 实验室联络用           | slack              | ✅             |
+| [Office](https://www.office.com/)                            | 码字                   | microsoft-office   | ✅             |
+| [Discord](https://discord.com/)                              | 游戏开黑               | Discord            | ❌             |
+| [Telegram](https://telegram.org/apps)                        | 奇怪的群组看奇怪的东西 | telegram           | ✅             |
+| [知悉思维导图](https://www.zhixi.com/download)               | 思维导图               | ❌                  | ❌             |
+| [Insync](https://www.insynchq.com/)                          | 网盘同步               | insync             | ❌             |
+| [Utools](https://www.u.tools/)                               | 效率工具               | utools             | ❌             |
+| [Typora](https://typora.io/)                                 | md码字工具             | typora             | ❌             |
+| [Notion](https://www.notion.so/)                             | 笔记工具               | notion             | ❌             |
+| [Todoist](https://todoist.com/ja)                            | 任务清单               | todoist            | ✅             |
+| [Visual Studio Code](https://code.visualstudio.com/download) | IDE                    | visual-studio-code | ❌             |
+| [Zotero](https://www.zotero.org/)                            | 文献管理               | zotero             | ❌             |
+| [IINA](https://iina.io)                                      | 视频播放器             | iina               | ❌             |
+| [Aria2GUI](https://github.com/NickYang29/aria2gui)           | 多线程下载             | aria2gui           | ❌             |
+| [iTerm 2](https://iterm2.com)                                | 终端                   | iterm2             | ❌             |
+| [Goodnotes](https://www.goodnotes.com/jp)                    | 手写笔记软件           | ❌                  | ✅             |
+| [The Unarchiver](https://theunarchiver.com)                  | 解压缩                 | the-unarchiver     | ✅             |
+| [magnet](https://magnet.crowdcafe.com)                       | 快速布置窗口           | ❌                  | ✅             |
+| [讯飞语记](https://iflynote.com)                             | 语音码字               | ❌                  | ❌             |
+| [TeX Live](https://texwiki.texjp.org/?TeX%20Live%2FMac)      | latex写论文用的        | mactex             | ❌             |
+
 
 
