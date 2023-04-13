@@ -131,9 +131,31 @@ $ brew install iterm2
 
 ## zsh的配置
 
-大一时候用的Macbook还是默认使用bash作为shell的，在macOS Catalina后，便将zsh作为默认shell了。反正不会配置，用别人的配置不香吗？
+大一时候用的Macbook还是默认使用bash作为shell的，在macOS Catalina后，便将zsh作为默认shell了。反正不会配置，用别人的配置不香吗？顺便安装一些好用的主题和插件。
 
-#### oh-my-zsh
+```bash
+# 安装 oh-my-zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+# 安装 powerlevel10k
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+
+# 安装 zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
+# 安装zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+
+修改~/.zshrc文件
+vim ~/.zshrc
+ZSH_THEME="powerlevel10k/powerlevel10k"  # 启动P10主题
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting extract colored-man-pages z)  # 启用一些插件
+source ~/.zshrc # 重载用户配置文件
+#之后更具P10的引导一步一步自定义主题吧
+
+```
+
+
 
 ---
 
@@ -175,3 +197,9 @@ $ brew install iterm2
 
 
 
+## 参考
+
+https://github.com/zsh-users/zsh-autosuggestions
+https://github.com/zsh-users/zsh-syntax-highlighting
+https://github.com/romkatv/powerlevel10k
+https://github.com/ohmyzsh/ohmyzsh
